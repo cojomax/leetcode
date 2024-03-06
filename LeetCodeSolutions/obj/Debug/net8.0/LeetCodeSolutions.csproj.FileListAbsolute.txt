@@ -1,0 +1,15 @@
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.deps.json
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.runtimeconfig.json
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.dll
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/bin/Debug/net8.0/LeetCodeSolutions.pdb
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfoInputs.cache
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.AssemblyInfo.cs
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.csproj.CoreCompileInputs.cache
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.sourcelink.json
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.dll
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/refint/LeetCodeSolutions.dll
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.pdb
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/LeetCodeSolutions.genruntimeconfig.cache
+/Users/maxcobbett/github/leetcode/LeetCodeSolutions/obj/Debug/net8.0/ref/LeetCodeSolutions.dll
