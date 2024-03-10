@@ -4,10 +4,10 @@ using Solutions.Easy;
 using Solutions.Medium;
 
 // Initialize LeetCode problem here;
-var solution = new PlusOne();
+var solution = new IntersectionOfTwoArrays();
 
 Console.WriteLine("Running LeetCode problem '{0}. {1}'", solution.Number, solution.GetType().Name);
 
-var result = solution.Solve([5,6,2,0,0,4,6,2,4,9]);
+var result = solution.Solve([1, 2, 2, 1], [2, 2]);
 
 Console.WriteLine("Result: {0}", result);
