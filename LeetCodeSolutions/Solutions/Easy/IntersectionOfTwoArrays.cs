@@ -11,3 +11,4 @@ public class IntersectionOfTwoArrays
         return [.. nums1Set];
     }
 }
+// Tags: Hash Table, Intersection, Set
