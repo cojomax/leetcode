@@ -33,7 +33,26 @@ public class ValidSudoku
         }
 
         // TODO Check each 3x3 box
-        ...
+        int row = 0, col = 0;
+
+        while (row < size)
+        {
+            nums.Clear();
+            for (int i = row; i < row + 3; i++)
+            {
+                for (int j = col; j < col + 3; j++)
+                {
+                    var value = board[i][j];
+                    if (!TryAdd(nums, value)) return false;
+                }
+            }
+            col += 3;
+            if (col >= size)
+            {
+                row += 3;
+                col = 0;
+            }
+        }
 
         return true;
     }
